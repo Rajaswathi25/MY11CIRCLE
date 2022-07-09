@@ -1,0 +1,77 @@
+*/{
+    margin: 0;
+    padding: 0;
+ }
+ #cricket{
+     position: absolute;
+     height: 100vh;
+     width: 100vw;
+ }
+ #scoreCard{
+     position: absolute;
+     margin-top: 35vh;
+     margin-left:400px;
+     color: aliceblue;
+     filter:opacity(70%) ;
+     border:2px solid midnightblue;
+ }
+ #main{
+     position: absolute;
+     margin-left: 38vw;
+     color: darkblue;
+     text-align: center;
+     text-shadow: 2px 2px 2px midnightblue;
+     text-shadow: 2px 2px 3px plum;
+     font-weight: bolder; 
+ }
+ #heading1{
+     margin-left: 1vw;
+     background-color: bisque;
+ }
+ 
+ #heading2{
+    color: white;
+ }
+ table{
+     border-collapse: collapse;
+     width: 50%;
+     height: 40%;
+ }
+ td, th{
+     border: 2px solid midnightblue;
+     text-align: left;
+     padding: 5px;
+     background-color: lightblue;
+     color: midnightblue;
+ }
+ #batsmanList{
+     background-color: darkblue;
+     color:beige;
+     border: 2px solid white;
+     font-weight: 900; 
+ }
+ #runScored{
+     background-color: darkblue;
+     color:beige;
+     border: 2px solid white;
+ }
+ #ballFaced{
+     background-color: darkblue;
+     color:beige;
+     border: 2px solid white;
+ }
+ #noOfFours{
+     background-color: darkblue;
+     color:beige;
+     border: 2px solid white;
+ }
+ #noOfSixes{
+     background-color: darkblue;
+     color:beige;
+     border: 2px solid white;
+ }
+ #strikeRate{
+     background-color: darkblue;
+     color:beige;
+     border: 2px solid white;
+ }
